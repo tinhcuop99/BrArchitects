@@ -1,0 +1,17 @@
+@media (max-width: 812px) {
+    .moblie {
+        display: none;
+    }
+
+    .body {
+        padding: 0 6px;
+    }
+
+    .text-center {
+        display: none;
+    }
+
+    .contact {
+        padding: 0 6px;
+    }
+}
