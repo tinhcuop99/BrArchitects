@@ -2,13 +2,16 @@
     .moblie {
         display: none;
     }
+    .padding-moblie {
+        padding-left: 4px;
+    }
 
     .body {
         padding: 0 6px;
     }
 
     .text-center {
-        display: none;
+        /* display: none; */
     }
 
     .contact {
